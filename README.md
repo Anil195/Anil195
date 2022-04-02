@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anilpan60160265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anilpan60160265" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anil-baidnath-pandit-296075210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil-baidnath-pandit-296075210" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/anil.pandit.9237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anil.pandit.9237" height="30" width="40" /></a>
+<a href="https://twitter.com/anilpandit0195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anilpan60160265" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anilpandit195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil-baidnath-pandit-296075210" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/anilpandit195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anil.pandit.9237" height="30" width="40" /></a>
 <a href="https://instagram.com/anilpandit195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anilpandit195" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anilpandit195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anilpandit195" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anil195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anil195" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anilpandit195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anil195" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@anilpandit195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anilpandit195" height="30" width="40" /></a>
 </p>
 
